@@ -43,7 +43,7 @@ elixir/deps
 elixir/erl_crash.dump
 elixir/*.ez
 elm/elm-stuff
-elm/*.raw.js
+elm/*.js
 erlang/ebin
 erlang/.rebar
 erlang/src/*.beam
